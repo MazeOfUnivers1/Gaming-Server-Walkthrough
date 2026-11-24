@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Sensitive lab material (never commit real key material)
+*.pem
+id_rsa
+id_rsa.pub
+*.key
+hash.txt
+loot/
+*.tar.gz
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
